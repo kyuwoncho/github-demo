@@ -6,3 +6,5 @@ test file
     두번
     
     
+나는 sweDemo2입니다. 외부 contriute입니다.
+안뇽~~~
